@@ -51,3 +51,6 @@ Git - это одна из реализаций распределённых с�
     - элемент 3.1
 
 Это — [ссылка на GeekBrains](https://gb.ru)
+
+![Git](https://github.githubassets.com/images/modules/logos_page/Octocat.png)
+
